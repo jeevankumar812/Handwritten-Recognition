@@ -31,6 +31,3 @@ The system is trained on handwritten character images and predicts characters on
 
 ---
 
-## 📁 Project Structure
-
-
